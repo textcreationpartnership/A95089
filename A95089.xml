@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true narrative of the confession and execution of Elizabeth Hare which is burnt for high-treason, in Bun-Hill Fields on Tuesday the 30th. of this instant October· 1683 But Sydley Vanderlyn had his Majesties most gracious reprieve.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95089</idno>
+            <idno type="STC">Wing T2777bA</idno>
+            <idno type="STC">ESTC R226318</idno>
+            <idno type="EEBO-CITATION">99899215</idno>
+            <idno type="PROQUEST">99899215</idno>
+            <idno type="VID">152754</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152754)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true narrative of the confession and execution of Elizabeth Hare which is burnt for high-treason, in Bun-Hill Fields on Tuesday the 30th. of this instant October· 1683 But Sydley Vanderlyn had his Majesties most gracious reprieve.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hare, Elizabeth, d. 1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152754:1"/>
+            <!-- PDF PAGE 58 -->
+            <head>THE TRUE NARRATIVE OF THE CONFESSION AND EXECUTION of <hi>Elizabeth Hare</hi> which is burnt for <hi>High-Treaſon,</hi> IN Bun-Hill FIELDS On <hi>Tueſday</hi> the 30th. of this Inſtant <hi>October.</hi> 1683 But <hi>Sydley Vanderlyn</hi> had his Majeſties moſt Gracious Reprieve.</head>
+            <p>ON <hi>Tueſday</hi> the 30th. of this Inſtant <hi>October, Elizabeth Hare,</hi> Condemned lately at the <hi>Old Barly,</hi> and received Sentence to be burnt alive, and it being left to the Diſcretion of the <hi>Sheriff of Middleſex,</hi> to appoint a fit place for the Execution: <hi>Bun-Hill Fields</hi> was accord<g ref="char:EOLhyphen"/>ingly appointed: she was brought under a ſtrong Guard of <hi>Middleſex</hi> Officers Commanded by Mr. <hi>Rouſe</hi> the preſent under <hi>Sheriff,</hi> accompa<g ref="char:EOLhyphen"/>nied by great Numbers of Men on Horſeback; the
+<pb n="2" facs="tcp:152754:2"/>
+               <!-- PDF PAGE 59 -->
+               <hi>Fields</hi> being crouded to behold the direful Exit. About eleven a Clock ſhe arrived at the Stake, where was prepared a convenient quantity of <hi>Ba<g ref="char:EOLhyphen"/>vins, Reeds, and Fagots,</hi> and as expected, ſhe made a clear Confeſſion of all the publick offen<g ref="char:EOLhyphen"/>ces ſhe had been guilty of ſuch as relate to her preſent end, and many more of the ſame nature: and that one part of her life she lived about <hi>Bun Hill Fields</hi> where she had a Baſtard Child, and although she had <hi>forborn Confeſſing thereof</hi> till this time that she was wholly Convinced she muſt now die, at that time she was ſo void of Remorſe, to the young Infant that she buried it a live in <hi>Bun hill Fields,</hi> and at this laſt Inſtant of <hi>time,</hi> she could no longer forbear <hi>revealing</hi> the <hi>ſame,</hi> it being ſo great a Terror to her Conſci<g ref="char:EOLhyphen"/>ence; Theſe Words being directed to a Learn<g ref="char:EOLhyphen"/>ed Divine <hi>Which</hi> did there <hi>officiate moſt earneſtly,</hi> deſiring his prayers and the prayers <hi>of</hi> all good Chriſtians. A Halter was fixed at the uper end of the Stake to the Neck of the Suffer<g ref="char:EOLhyphen"/>er, who was placed on| a Block which the <hi>Executioner</hi> removed at convenient time, which prevented her from making any Skreecks or out<g ref="char:EOLhyphen"/>rages by reaſon of any pain she might receive from the Fire; in which manner she was conſumed to aſhes, which ſad Spactacle may be ſufficien tto warn all who have the leaſt all Remnant of good in them, to be watchful &amp; at times ſo carefull, that when any vain tempta<g ref="char:EOLhyphen"/>tions of worldly Riches, or any ſeeming Vanities
+<pb n="3" facs="tcp:152754:2"/>
+               <!-- PDF PAGE 59 -->
+               <hi>thereof</hi> shall in the leaſt meaſure incline their purpoſes, that they apply themſelves to all<g ref="char:EOLhyphen"/>mighty God in prayer, to enable them to with. ſtand all ſuch, Devilish inclinations, that lead to no other end then the Gates <hi>of</hi> Death and Deſtru<g ref="char:EOLhyphen"/>ction in this world, beſides the great danger there is <hi>of</hi> eternal Deſtruction in the World to come. For it is daily experienced, that <hi>ſuch practices</hi> do ſeldom paſs unattended with all manner of <hi>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ickedneſs</hi> and <hi>Debauchery</hi> that it may be poſſi<g ref="char:EOLhyphen"/>ble <hi>for Humanity</hi> to be <hi>capable</hi> or Guilty of; being naturally attendant for Men not to shrink at any <hi>wickedneſs if once</hi> they <hi>trample</hi> upon any part <hi>of</hi> the <hi>Fence</hi> that preſerves the <hi>Common</hi> Rule of Moral Juſtneſs, that being the Grand ſtep that is <hi>made</hi> to the Deſtruction <hi>of</hi> all the Religious du<g ref="char:EOLhyphen"/>ties <hi>accompanied</hi> with all <hi>Atheiſtical</hi> and <hi>Fanati<g ref="char:EOLhyphen"/>cal Principles</hi> as tend to nothing but the Total Rooting up of all Order and Good Government, that the providence of <hi>almighty god</hi> has been pleaſe to eſtabliſh <hi>amongſt</hi> us, not only for our preſent <hi>Comfort</hi> and Well being in this preſent <hi>Life.</hi> but with the aſſiſtance <hi>of</hi> Divine Grace, <hi>may</hi> enable all that <hi>truly fear God, and work Righte<g ref="char:EOLhyphen"/>ouſneſs</hi> to receive thoſe bleſſings laid up for the Faithful to all Eternity, and all perſons whether young or old, that have been tempted by any of the Emiſſaries of ſuch wicked and dangerous pro<g ref="char:EOLhyphen"/>jects let them ceaſe from any ſuch evil practices <hi>for</hi> the <hi>future,</hi> and praiſe God <hi>for</hi> his Providence, in preſerving them this time from the jaws of Death, that every hour is ready to ſeize them
+<pb n="4" facs="tcp:152754:3"/>
+               <!-- PDF PAGE 60 -->and give them <hi>a time of amendment</hi> of Life in this World, and that God in his great Mercy for the Future, would prevent <hi>&amp; give ſuch</hi> that <hi>have</hi> been any ways <hi>Concerned</hi> in that Courſe of Life (that <hi>cauſed</hi> this Dreadful hiſtory) a true ſorrow &amp; <hi>amendment</hi> of Life.</p>
+            <trailer type="license">Entered according to order,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by <hi>E Mallet,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
